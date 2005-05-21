@@ -8,7 +8,7 @@ Epoch:		0
 License:	GPL
 Group:		Applications/WWW
 Source0:	http://drupal.org/files/projects/%{modname}-%{version}.tar.gz
-# Source0-md5:	607dd16dea4d743653d201da454c96ca
+# Source0-md5:	af29a96b70cc45e941e6c68631991161
 URL:		http://drupal.org/project/front
 Requires:	drupal >= 4.6.0
 BuildArch:	noarch
