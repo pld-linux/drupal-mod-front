@@ -3,11 +3,11 @@ Summary:	Drupal Frontpage Module
 Summary(pl):	Modu³ Frontpage (strony tytu³owej) dla Drupala
 Name:		drupal-mod-%{modname}
 Version:	4.6.0
-Release:	0.6
+Release:	0.7
 License:	GPL
 Group:		Applications/WWW
 Source0:	http://drupal.org/files/projects/%{modname}-%{version}.tar.gz
-# Source0-md5:	af29a96b70cc45e941e6c68631991161
+# Source0-md5:	83e2fc918b3cbd1ad43a1290220bd608
 URL:		http://drupal.org/project/front
 Requires:	drupal >= 4.6.0
 BuildArch:	noarch
