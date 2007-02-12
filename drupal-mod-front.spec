@@ -1,6 +1,6 @@
 %define		modname front
 Summary:	Drupal Frontpage Module
-Summary(pl):	Modu³ Frontpage (strony tytu³owej) dla Drupala
+Summary(pl.UTF-8):   ModuÅ‚ Frontpage (strony tytuÅ‚owej) dla Drupala
 Name:		drupal-mod-%{modname}
 Version:	4.6.0
 Release:	0.7
@@ -30,18 +30,18 @@ Useful if you want to do the following:
   page(s) from within the Drupal Administration area,
 - Include PHP code in your Front Page(s).
 
-%description -l pl
-Modu³ Front Page pozwala na okre¶lenie stron startowych lub tytu³owych
-na stronie ró¿ni±cych siê w wygl±dzie od domy¶lnego motywu/stylu.
+%description -l pl.UTF-8
+ModuÅ‚ Front Page pozwala na okreÅ›lenie stron startowych lub tytuÅ‚owych
+na stronie rÃ³Å¼niÄ…cych siÄ™ w wyglÄ…dzie od domyÅ›lnego motywu/stylu.
 
-Jest to przydatne je¶li chcemy zrobiæ takie rzeczy, jak:
-- mieæ tytu³ow± stronê startow± na witrynie Drupala ró¿ni±c± siê od
-  domy¶lnego wygl±du,
-- automatycznie wy¶wietlaæ ró¿ne strony tytu³owe dla anonimowych i
-  uwierzytelnionych u¿ytkowników,
-- ³atwo uaktualniaæ/zmieniaæ zawarto¶æ lub przekierowania strony
-  tytu³owej z obszaru administracyjnego Drupala,
-- w³±czaæ kod PHP na stronie tytu³owej.
+Jest to przydatne jeÅ›li chcemy zrobiÄ‡ takie rzeczy, jak:
+- mieÄ‡ tytuÅ‚owÄ… stronÄ™ startowÄ… na witrynie Drupala rÃ³Å¼niÄ…cÄ… siÄ™ od
+  domyÅ›lnego wyglÄ…du,
+- automatycznie wyÅ›wietlaÄ‡ rÃ³Å¼ne strony tytuÅ‚owe dla anonimowych i
+  uwierzytelnionych uÅ¼ytkownikÃ³w,
+- Å‚atwo uaktualniaÄ‡/zmieniaÄ‡ zawartoÅ›Ä‡ lub przekierowania strony
+  tytuÅ‚owej z obszaru administracyjnego Drupala,
+- wÅ‚Ä…czaÄ‡ kod PHP na stronie tytuÅ‚owej.
 
 %prep
 %setup -q -n %{modname}
