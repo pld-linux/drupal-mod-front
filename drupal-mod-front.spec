@@ -1,6 +1,6 @@
 %define		modname front
 Summary:	Drupal Frontpage Module
-Summary(pl.UTF-8):   Moduł Frontpage (strony tytułowej) dla Drupala
+Summary(pl.UTF-8):	Moduł Frontpage (strony tytułowej) dla Drupala
 Name:		drupal-mod-%{modname}
 Version:	4.6.0
 Release:	0.7
